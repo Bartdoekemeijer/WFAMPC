@@ -1,1 +1,1 @@
-the /bin/ directory is where all the internal functions of the AMPC controller go
+the /bin/ directory is where all the internal functions of the AMPC controller go.
